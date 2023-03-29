@@ -1,1 +1,12 @@
-bash A < ambiente.in
+##What is it?
+
+A simple project for Distributed System Class at BCC UDESC. It implements a simple multicast connection, where the class Gerador receives a message from file Ambiente.in,
+sends it to the class Consumidor that makes the message upper case.
+
+##HOW TO RUN
+
+Use `bash A < ambiente.in`
+
+##CREDITS
+
+Done by Vitor Bernstorff Clemes & Pedro Henrique Serpa
